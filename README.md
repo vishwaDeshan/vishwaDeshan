@@ -2,7 +2,7 @@
 <h3 align="center">I am IT undergraduate at the university of Moratuwa</h3>
 <img align="right" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-- 💬 Ask me about **Angular**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **waweliyadda.1998@gmail.com**
 
