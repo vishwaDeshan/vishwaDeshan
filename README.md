@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwa Waweliyadda</h1>
-<h3 align="center">I am IT undergraduate at the university of Moratuwa</h3>
+<h3 align="center">I am an IT undergraduate at the university of Moratuwa</h3>
 <img align="right" style="Padding:20px" width="300" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 - 🌱 I’m currently learning **Angular**
