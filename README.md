@@ -2,7 +2,7 @@
 <h3 align="center">I am an IT undergraduate at the university of Moratuwa</h3>
 <img align="right" style="Padding:20px" width="300" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-- 🌱 I’m currently learning **MERN Tech Stack**
+- 🌱 I’m currently learning **Spring Boot Framework**
 
 - 📫 How to reach me **waweliyadda.1998@gmail.com**
 
