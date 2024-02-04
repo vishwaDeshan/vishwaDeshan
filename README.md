@@ -2,7 +2,7 @@
 <h3 align="center">I am an IT undergraduate at the university of Moratuwa</h3>
 <img align="right" style="Padding:20px" width="300" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-- 🌱 I’m currently learning **Spring Boot Framework**
+- 🌱 I’m currently learning **.NET and Angular**
 
 - 📫 How to reach me **waweliyaddavishwacontact@gmail.com**
 
@@ -18,6 +18,7 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 </a>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwadeshan&" alt="vishwadeshan" /></p>
